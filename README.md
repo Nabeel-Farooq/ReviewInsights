@@ -1,6 +1,6 @@
-# ReviewSense — Customer Review Sentiment Analysis
+# ReviewInsights — Customer Review Sentiment Analysis
 
-ReviewSense is a simple project that analyzes Amazon food reviews to understand customer sentiment. It classifies reviews as positive, negative, or neutral using both a rule-based approach and a deep learning model.
+ReviewInsights is a simple project that analyzes Amazon food reviews to understand customer sentiment. It classifies reviews as positive, negative, or neutral using both a rule-based approach and a deep learning model.
 
 ## Dataset
 Amazon Fine Food Reviews (Kaggle)
